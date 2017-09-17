@@ -1,3 +1,3 @@
-# VisionSample
+facelandmark detect from video recording.
 
-Sample app for CocoaHeads lightning talk. 6/28/2017
+(https://github.com/futomtom/facelandmark/blob/master/S__3203076.jpg)
